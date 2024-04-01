@@ -1,0 +1,10 @@
+body{
+}
+
+nav {
+    background-color: #87B5CF;
+   display: flex;
+   justify-content: center;
+   align-items: center
+    
+}
